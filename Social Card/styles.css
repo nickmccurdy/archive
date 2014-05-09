@@ -15,6 +15,10 @@ tr.social_card, td.social_card {
   padding: 2px 2px;
 }
 
+.fa {
+  font-size: 32px;
+}
+
 .subtitle {
   font-size: 12px;
   font-weight: normal;
