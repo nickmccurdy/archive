@@ -1,32 +1,35 @@
-a {color:white;}
-.social_card
-{
+a {
+  color:white;
+}
+
+.social_card {
   color: white;
   background-color: #555555;
   font-family: Arial;
   font-weight: bold;
   border-collapse: collapse;
 }
-tr.social_card
-{
+
+tr.social_card, td.social_card {
   border: 2px solid black;
   padding: 2px 2px;
 }
-td.social_card
-{
-  border: 2px solid black;
-  padding: 2px 2px;
+
+.subtitle {
+  font-size: 12px;
+  font-weight: normal;
+  color: #CCCCCC;
 }
-.ending
-{
+
+.ending {
   color: #CCCCCC;
   font-size: 10px;
   font-weight: normal;
   vertical-align: bottom;
   text-align: right;
 }
-.section_header
-{
+
+.section_header {
   font-size: 10;
   font-weight: normal;
 }
